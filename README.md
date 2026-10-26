@@ -12,5 +12,3 @@ java Main.java        # nudge every 30 seconds (default)
 java Main.java 10     # nudge every 10 seconds
 ```
 
-Run from the folder containing `Main.java` (`src/main/java/com/github/kyanbrix`),
-or pass the full path. Press `Ctrl+C` to stop.
